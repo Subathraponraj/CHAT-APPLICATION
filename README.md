@@ -25,7 +25,15 @@ One of the application's unique features is its voice input functionality, imple
 The application does not use a database or file-based storage, as it is designed for real-time ephemeral communication. All messages exist only in the session and are lost upon refresh or disconnection. The lack of persistent storage simplifies deployment and ensures a lightweight architecture.Overall, this chat application provides a lightweight and efficient solution for real-time communication, leveraging for instant messaging and modern web technologies for an interactive user experience. The combination of Node.js, Express.js, and Socket.io ensures seamless performance, while HTML, CSS, and JavaScript enhance usability and aesthetics. Features like voice input, emoji conversion, and structured message alignment make the application both functional and user-friendly.
 
 *OUTPUT*:
+![Image](https://github.com/user-attachments/assets/af07e0ec-7720-4b77-86f8-9c74116c6240)
 
+![Image](https://github.com/user-attachments/assets/d433049f-7630-40a2-9a55-340da2f5763a)
+
+![Image](https://github.com/user-attachments/assets/4f1edffe-32ed-43d0-9f6b-d7620efaaf0b)
+
+![Image](https://github.com/user-attachments/assets/98296565-a2ac-4d08-9278-6841f316d66c)
+
+![Image](https://github.com/user-attachments/assets/210080f4-b575-4815-a60f-432a84b11dac)
 
 
 
